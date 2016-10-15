@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# wdi-fundamentals-memorygame
 
-Things you may want to cover:
+Memory Game: Unit Homework for WDI Fundamentals
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For this project I wanted to see what I could come up with using what I had previously. The end result has a heavy focus on jQuery and I would like to improve by adding different sizes.
